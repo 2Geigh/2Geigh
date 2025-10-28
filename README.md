@@ -1,6 +1,6 @@
 <h2 align="left">Welcome to my Github.</h2>
 
-I build React apps for fun (among many other things) while studying molecular biology at the University of Toronto.
+I build web apps to solve my problems.
 <br>
 Feel free to reach me at nicholasgarcia2003@protonmail.com
 
