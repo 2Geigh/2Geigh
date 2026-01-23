@@ -1,6 +1,6 @@
 <h2 align="left">Welcome to my Github.</h2>
 
-I build web and mobile apps to solve my problems.
+I build web full-stack web apps to solve my problems.
 <br>
 Feel free to reach me at nicholasgarcia2003@protonmail.com
 
