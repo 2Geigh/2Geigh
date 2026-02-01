@@ -18,7 +18,7 @@ Feel free to reach me at nicholasgarcia2003@protonmail.com
 	<code><a href="https://github.com/2Geigh/Rolladex/tree/main/frontend"><img width="41" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" title="Node.js"/></a></code>
 	<code><a href="https://sqlite.org/index.html"><img width="41" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sqlite.png" alt="SQLite" title="SQLite"/></a></code>
 	<code><a href="https://github.com/2Geigh/CBS498"><img width="41" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" alt="bash" title="bash"/></a></code>
-	<code><a href="https://zorin.com/os/"><img width="41" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" title="Linux"/></a></code>
+	<code><a href="https://zorin.com/os/"><img width="41" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" title="Linux"/></a></code>
 </div>
 
 </div>
