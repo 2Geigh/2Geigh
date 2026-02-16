@@ -12,4 +12,4 @@ Feel free to reach me at nicholasgarcia2003@protonmail.com
   <img src="https://cdn.wallpapersafari.com/34/24/W7km3i.jpg" style="width: auto; height: 293px; border-radius: 20%; margin-top: 1.5em;"/>
 
 
-[![My Skills](https://skillicons.dev/icons?i=docker,figma,go,linux,nginx,nodejs,postgresql,python,react,scss,tauri,ts&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,go,nodejs,postgresql,python,react,scss,tauri,linux,nginx,docker,ts&perline=8)](https://skillicons.dev)
