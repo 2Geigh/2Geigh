@@ -8,8 +8,23 @@ Feel free to reach me at nicholasgarcia2003@protonmail.com
   <img src="https://github-readme-stats.vercel.app/api?username=2Geigh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
 
   
-  <!-- https://marwin1991.github.io/profile-technology-icons/ -->
-  <img src="https://cdn.wallpapersafari.com/34/24/W7km3i.jpg" style="width: auto; height: 293px; border-radius: 20%; margin-top: 1.5em;"/>
+<!-- https://marwin1991.github.io/profile-technology-icons/ -->
+<img src="https://cdn.wallpapersafari.com/34/24/W7km3i.jpg" style="width: auto; height: 293px; border-radius: 20%; margin-top: 1.5em;"/>
 
+<h3>My Favourite Stack</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=ableton,docker,figma,go,linux,postgresql,python,react,scss,tauri,ts&perline=8)](https://skillicons.dev)
+<h4>Frontend</h4>
+
+[![My Skills](https://skillicons.dev/icons?i=ts,react,scss)](https://skillicons.dev)
+
+<h4>Backend</h4>
+
+[![My Skills](https://skillicons.dev/icons?i=go,postgresql,php)](https://skillicons.dev)
+
+<h4>Deployment</h4>
+
+[![My Skills](https://skillicons.dev/icons?i=docker,nginx,debian)](https://skillicons.dev)
+
+<h3>Other tools I like using</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=ableton,bash,figma,mint,python,tauri&perline=8)](https://skillicons.dev)
