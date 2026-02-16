@@ -1,4 +1,4 @@
-<h2 align="left">Welcome to my Github.</h2>
+<h2 align="left">Nick Garcia's Github ☀️</h2>
 
 I build web full-stack web apps to solve my problems.
 <br>
@@ -9,16 +9,7 @@ Feel free to reach me at nicholasgarcia2003@protonmail.com
 
   
   <!-- https://marwin1991.github.io/profile-technology-icons/ -->
-  <img src="https://cdn.wallpapersafari.com/34/24/W7km3i.jpg" style="width: auto; height: 285px; border-radius: 20%; margin-top: 1.5em;"/>
-  <div >
-	<code><a href="https://github.com/2Geigh/Rolladex/tree/main/frontend"><img width="41" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" title="TypeScript"/></a></code>
-	<code><a href="https://github.com/2Geigh?tab=repositories&q&type&language=go&sort"><img width="41" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/go.png" alt="Go" title="Go"/></a></code>
-	<code><a href="https://github.com/2Geigh/Rolladex/tree/main/frontend"><img width="41" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React"/></a></code>
-	<code><a href="https://github.com/2Geigh/Rolladex/tree/main/frontend"><img width="41" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sass.png" alt="Sass" title="Sass"/></a></code>
-	<code><a href="https://github.com/2Geigh/Rolladex/tree/main/frontend"><img width="41" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" title="Node.js"/></a></code>
-	<code><a href="https://sqlite.org/index.html"><img width="41" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sqlite.png" alt="SQLite" title="SQLite"/></a></code>
-	<code><a href="https://github.com/2Geigh/CBS498"><img width="41" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" alt="bash" title="bash"/></a></code>
-	<code><a href="https://zorin.com/os/"><img width="41" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" title="Linux"/></a></code>
-</div>
+  <img src="https://cdn.wallpapersafari.com/34/24/W7km3i.jpg" style="width: auto; height: 293px; border-radius: 20%; margin-top: 1.5em;"/>
 
-</div>
+
+[![My Skills](https://skillicons.dev/icons?i=docker,figma,go,linux,nginx,nodejs,postgresql,python,react,scss,tauri,ts&perline=8)](https://skillicons.dev)
