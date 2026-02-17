@@ -1,6 +1,6 @@
 <h2 align="left">Nick Garcia's Github ☀️</h2>
 
-I build web full-stack web apps to solve my problems. <br>
+I build full-stack web apps to solve my problems. <br>
 Feel free to reach me at nicholasgarcia2003@protonmail.com
 
 <!-- <div align="center">
