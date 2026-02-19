@@ -29,7 +29,7 @@ style="width: auto; height: 293px; border-radius: .5rem; margin-top: .5em;"
  <div class="substack">
   <h4>Backend</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=go,postgresql,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,mysql,php)](https://skillicons.dev)
 
 </div>
 
@@ -45,7 +45,7 @@ style="width: auto; height: 293px; border-radius: .5rem; margin-top: .5em;"
 <div id="other">
 <h3>Other tools I like using</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=ableton,bash,figma,mint,mysql,python,sqlite,tauri\&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ableton,bash,figma,mint,python,sqlite,tauri\&perline=8)](https://skillicons.dev)
 
 </div>
 
