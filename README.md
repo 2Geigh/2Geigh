@@ -14,7 +14,7 @@ style="width: auto; height: 293px; border-radius: .5rem; margin-top: .5em;"
 />
 
 <div id="stack">
-  <h3>My Favourite Stack</h3>
+  <h3>My Favourite Tools</h3>
 
   <div id="substacks">
 
