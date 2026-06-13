@@ -46,7 +46,7 @@ style="width: auto; height: 293px; border-radius: .5rem; margin-top: .5em;"
 <div id="other">
 <h3>Other tools I like using</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=figma,java,mint,python,sqlite\&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,figma,mint,python,sqlite\&perline=8)](https://skillicons.dev)
 
 </div>
 
