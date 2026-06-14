@@ -14,39 +14,13 @@ src="https://cdn.wallpapersafari.com/34/24/W7km3i.jpg"
 style="width: auto; height: 293px; border-radius: .5rem; margin-top: .5em;"
 />
 
-<div id="stack">
-  <h3>My Favourite Tools</h3>
+<h3>Tools I enjoy</h3>
 
-  <div id="substacks">
+[![My Skills](https://skillicons.dev/icons?i=go,python,ts,c\&perline=8)](https://skillicons.dev)
 
-<div class="substack">
+[![My Skills](https://skillicons.dev/icons?i=react,scss,postgres,django\&perline=8)](https://skillicons.dev)
 
-  <h4>Frontend</h4>
-
-[![My Skills](https://skillicons.dev/icons?i=ts,react,scss)](https://skillicons.dev)
-
-</div>
-
- <div class="substack">
-  <h4>Backend</h4>
-
-[![My Skills](https://skillicons.dev/icons?i=go,postgres,python)](https://skillicons.dev)
-
-</div>
-
-  <div class="substack">
-  <h4>Deployment</h4>
-
-[![My Skills](https://skillicons.dev/icons?i=docker,nginx,debian)](https://skillicons.dev)
-
-</div>
-
-</div>
-
-<div id="other">
-<h3>Other tools I like using</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=c,figma,mint,python,sqlite\&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,nginx,debian,mint)](https://skillicons.dev)
 
 </div>
 
