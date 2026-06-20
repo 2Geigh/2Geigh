@@ -1,6 +1,6 @@
 <h2 align="left">Nick Garcia's Github ☀️</h2>
 
-I make web apps to solve my problems and lower-level software for the challenge.
+I build web apps to solve problems and manually manage memory to have fun.
 <br>
 Feel free to reach me at nicholasgarcia2003@protonmail.com
 
