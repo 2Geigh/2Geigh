@@ -14,7 +14,7 @@ src="https://cdn.wallpapersafari.com/34/24/W7km3i.jpg"
 style="width: auto; height: 293px; border-radius: .5rem; margin-top: .5em;"
 />
 
-<h3>Tools I enjoy</h3>
+<h3>Devstuff I enjoy</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=go,python,ts,c\&perline=8)](https://skillicons.dev)
 
