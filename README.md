@@ -18,9 +18,9 @@ style="width: auto; height: 293px; border-radius: .5rem; margin-top: .5em;"
 
 [![My Skills](https://skillicons.dev/icons?i=go,python,ts,c\&perline=8)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=react,scss,postgres,django\&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=next,scss,postgres,django\&perline=8)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=docker,nginx,debian,mint)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,nginx,nix,mint)](https://skillicons.dev)
 
 </div>
 
