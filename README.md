@@ -1,6 +1,6 @@
 <h2 align="left">Nick Garcia's Github ☀️</h2>
 
-I build web apps to solve problems and manually manage memory to have fun.
+I build apps to solve problems and manually manage memory to have fun.
 <br>
 Feel free to reach me at nicholasgarcia2003@protonmail.com
 
@@ -16,11 +16,11 @@ style="width: auto; height: 293px; border-radius: .5rem; margin-top: .5em;"
 
 <h3>Devstuff I enjoy</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=go,python,ts,c\&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,ts,python,c\&perline=8&theme=light)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=next,scss,postgres,django\&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=next,scss,postgres,svelte\&perline=8&theme=light)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=docker,nginx,nix,mint)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,nginx,nix,mint&theme=light)](https://skillicons.dev)
 
 </div>
 
