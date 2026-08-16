@@ -1,6 +1,6 @@
 <h2 align="left">Nick Garcia's Github ☀️</h2>
 
-I build apps to solve problems and manually manage memory to treat boredom.
+I make web apps to fix annoyances and manually manage memory to cure boredom.
 <br>
 Feel free to reach me at nicholasgarcia2003@protonmail.com
 
