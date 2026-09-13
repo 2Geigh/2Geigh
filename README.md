@@ -10,8 +10,14 @@ Feel free to reach me at nicholasgarcia2003@protonmail.com
 <!-- https://marwin1991.github.io/profile-technology-icons/ -->
 
 <img
-src="https://cdn.wallpapersafari.com/34/24/W7km3i.jpg"
-style="width: auto; height: 293px; border-radius: .5rem; margin-top: .5em;"
+  src="https://cdn.wallpapersafari.com/34/24/W7km3i.jpg"
+  style="width: auto; height: 293px; border-radius: .5rem; margin-top: .5em;"
+  alt="A clear blue sky"
+/>
+<img
+  src="https://upload.wikimedia.org/wikipedia/commons/7/78/Tethys_behind_Titan.png"
+  style="height: 293px;"
+  alt="Titan, the final boss of solar system colonization (in my opinion)."
 />
 
 <h3>Devstuff I enjoy</h3>
