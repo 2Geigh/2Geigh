@@ -1,4 +1,4 @@
-<h2 align="left">Nick Garcia's Github ☀️</h2>
+# Nick Garcia's Github ☀️
 
 I make web apps to fix annoyances and manually manage memory to cure boredom.
 <br>
@@ -20,13 +20,13 @@ Feel free to reach me at nicholasgarcia2003@protonmail.com
   alt="Titan, the final boss of solar system colonization (in my opinion)."
 />
 
-<h3>Devstuff I enjoy</h3>
+## My Go-To Ingredients
 
-[![My Skills](https://skillicons.dev/icons?i=go,ts,c,python\&perline=8&theme=light)](https://skillicons.dev)
+![golang-java-typescript-python-php](https://www.readmecodegen.com/api/social-icon?name=golang%2Cjava%2Ctypescript%2Cpython%2Cphp&size=52&reverseBackground=true&link=)
 
-[![My Skills](https://skillicons.dev/icons?i=next,scss,postgres,htmx\&perline=8&theme=light)](https://skillicons.dev)
+![Sass-apachemaven-react-drizzle-htmx](https://www.readmecodegen.com/api/social-icon?name=Sass%2Capachemaven%2Creact%2Cdrizzle%2Chtmx&size=52&reverseBackground=true&link=)
 
-[![My Skills](https://skillicons.dev/icons?i=debian,docker,nginx,nix&theme=light)](https://skillicons.dev)
+![docker-nginx-alpinelinux-postgresql-nixos](https://www.readmecodegen.com/api/social-icon?name=docker%2Cnginx%2Calpinelinux%2Cpostgresql%2Cnixos&size=52&reverseBackground=true&link=)
 
 </div>
 
