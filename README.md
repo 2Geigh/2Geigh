@@ -26,7 +26,7 @@ Feel free to reach me at nicholasgarcia2003@protonmail.com
 
 ![Sass-apachemaven-react-drizzle-htmx](https://www.readmecodegen.com/api/social-icon?name=Sass%2Capachemaven%2Creact%2Cdrizzle%2Chtmx&size=52&reverseBackground=true&link=)
 
-![docker-nginx-alpinelinux-postgresql-nixos](https://www.readmecodegen.com/api/social-icon?name=docker%2Cnginx%2Calpinelinux%2Cpostgresql%2Cnixos&size=52&reverseBackground=true&link=)
+![docker-nginx-postgresql-alpinelinx-nixos](https://www.readmecodegen.com/api/social-icon?name=docker%2Cnginx%2C%2Cpostgresql%2Calpinelinux%2Cnixos&size=52&reverseBackground=true&link=)
 
 </div>
 
