@@ -21,12 +21,12 @@ Feel free to reach me at nicholasgarcia2003@protonmail.com
 />
 
 ## My Go-To Ingredients
-<!-- https://www.readmecodegen.com/icons/github-svg-icons-generator -->
-![golang-java-typescript-python-php](https://www.readmecodegen.com/api/social-icon?name=golang%2Cjava%2Ctypescript%2Cpython%2Cphp&size=52&reverseBackground=true&link=)
+<!-- https://www.readmecodepen.com/icons/github-svg-icons-generator -->
+![golang-java-typescript-python](https://www.readmecodegen.com/api/social-icon?name=golang%2Cjava%2Ctypescript%2Cpython&size=52&reverseBackground=true&link=)
 
-![Tailwind-apachemaven-react-drizzle-htmx](https://www.readmecodegen.com/api/social-icon?name=Tailwindcss%2Capachemaven%2Creact%2Cdrizzle%2Chtmx&size=52&reverseBackground=true&link=)
+![Tailwind-apachemaven-react](https://www.readmecodegen.com/api/social-icon?name=Tailwindcss%2Capachemaven%2Creact%2Chtmx&size=52&reverseBackground=true&link=)
 
-![docker-nginx-postgresql-alpinelinx-nixos](https://www.readmecodegen.com/api/social-icon?name=docker%2Cnginx%2C%2Cpostgresql%2Calpinelinux%2Cnixos&size=52&reverseBackground=true&link=)
+![docker-nginx-postgresql-nixos](https://www.readmecodegen.com/api/social-icon?name=docker%2Ccaddy%2C%2Cpostgresql%2Cnixos&size=52&reverseBackground=true&link=)
 
 </div>
 
