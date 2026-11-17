@@ -1,6 +1,6 @@
 # Nick Garcia ☀️
 
-Everything here is mirrored from <a href="https://git.nktg.me">my personal Git server</a>. See you there!
+Everything here is mirrored from <a href="https://git.nktg.me/ng">my personal Git server</a>. See you there!
 
 <img
   src="https://cdn.wallpapersafari.com/34/24/W7km3i.jpg"
